@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there, I'm Kevin Yobeth 👋
+- 🔭 I’m currently working on Ravl, a modern application for room booking.
+- 🌱 I’m currently learning PHP Laravel and Flutter.
+
+![Kevin Yobeth's github stats](https://github-readme-stats.vercel.app/api?username=kevinyobeth&show_icons=true&theme=cobalt)
 
 <!--
 **KevinYobeth/KevinYobeth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
