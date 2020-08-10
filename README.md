@@ -4,7 +4,7 @@
 
 ![Kevin Yobeth's github stats](https://github-readme-stats.vercel.app/api?username=kevinyobeth&show_icons=true&theme=cobalt)
 
-## Follow me on social media
+## Follow me on social media 
 - [Instagram](https://instagram.com/kevinyobeth)
 
 <!--
