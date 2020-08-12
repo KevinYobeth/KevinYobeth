@@ -2,7 +2,7 @@
 - 🔭 I’m currently working on Ravl, a modern application for room booking.
 - 🌱 I’m currently learning PHP Laravel and Flutter.
 
-![Kevin Yobeth's github stats](https://github-readme-stats.vercel.app/api?username=kevinyobeth&show_icons=true&theme=cobalt)
+![Kevin Yobeth's github stats](https://github-readme-stats.vercel.app/api?username=kevinyobeth&show_icons=true&theme=cobalt) 
 
 ## Follow me on social media 
 - [Instagram](https://instagram.com/kevinyobeth) 
