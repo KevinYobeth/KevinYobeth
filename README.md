@@ -5,7 +5,7 @@
 ![Kevin Yobeth's github stats](https://github-readme-stats.vercel.app/api?username=kevinyobeth&show_icons=true&theme=cobalt) 
 
 ## Follow me on social media 
-- [Instagram](https://instagram.com/kevinyobeth) 
+- [Instagram](https://instagram.com/kevinyobeth)  
 
 <!--
 **KevinYobeth/KevinYobeth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
