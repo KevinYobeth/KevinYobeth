@@ -4,12 +4,6 @@
 
 ![Kevin Yobeth's github stats](https://github-readme-stats.vercel.app/api?username=kevinyobeth&show_icons=true&theme=cobalt) 
 
-**My Steam Profile** *(from [SteamDB](https://steamdb.info/calculator/76561198228923212/?cc=id))*
-* **Worth:** Rp 4470806 (Rp 533894 with sales)
-* **Games owned:** 77
-* **Games played:** 31 *(40%)*
-* **Hours on record:** 2,375.6h
-
 ## Follow me on social media 
 - [Instagram](https://instagram.com/kevinyobeth)  
 
