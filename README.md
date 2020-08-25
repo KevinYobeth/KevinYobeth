@@ -2,7 +2,7 @@
 - 🔭 I’m currently working on Ravl, a modern application for room booking and LFM, Localhost File Management.
 - 🌱 I’m currently learning PHP Laravel and Flutter.
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kevinyobeth&show_icons=true&hide_border=true" />  
+<img alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kevinyobeth&show_icons=true&hide_border=true" />
 
 ## Follow me on social media 
 - [Instagram](https://instagram.com/kevinyobeth)  
