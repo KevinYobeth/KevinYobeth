@@ -1,8 +1,10 @@
 ### Hi there, I'm Kevin Yobeth 👋
-- 🔭 I’m currently working on Ravl, a modern application for room booking and LFM, Localhost File Management.
-- 🌱 I’m currently learning PHP Laravel and Flutter.
+- 🔭 I’m currently working on LFM, a Localhost File Management and an Anonymous Voting System.
+- 🌱 I’m actively learning PHP Laravel and Flutter through project.
+- 👯 I’m looking to collaborate on Laravel or Flutter project to increase my knowledge furthermore.
+- 📫 How to reach me: email me at leokeviny@gmail.com
 
-<img alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kevinyobeth&show_icons=true&hide_border=true" />
+<img alt="KevinYobeth's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kevinyobeth&show_icons=true&hide_border=true" />
 
 ## Follow me on social media 
 - [Instagram](https://instagram.com/kevinyobeth)  
