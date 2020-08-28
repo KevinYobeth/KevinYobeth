@@ -2,7 +2,7 @@
 - 🔭 I’m currently working on LFM, a Localhost File Management and an Anonymous Voting System.
 - 🌱 I’m actively learning PHP Laravel and Flutter through project.
 - 👯 I’m looking to collaborate on Laravel or Flutter project to increase my knowledge furthermore.
-- 📫 How to reach me: email me at leokeviny@gmail.com
+- 📫 Reach me by emailing leokeviny@gmail.com.
 
 <img alt="KevinYobeth's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kevinyobeth&show_icons=true&hide_border=true" />
 
