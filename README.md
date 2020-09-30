@@ -19,13 +19,25 @@
 <a href="https://www.github.com/kevinyobeth"><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></a>
 
 ## Tools I Use
+<a href="https://www.github.com/kevinyobeth"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg"></a>
 <a href="https://www.github.com/kevinyobeth"><img height="30" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"></a>
+<a href="https://www.github.com/kevinyobeth"><img height="30" src="https://assets.website-files.com/5c7036349b5477bf13f828cf/5c7036349b54772a93f82a6d_termius-logo.svg"></a>
 
+<!-- <img width="100%" src="/assets/dino.gif" /> -->
 
-## Join me on social media 
-- [Instagram](https://instagram.com/kevinyobeth)  
+<hr>
+<p align="center">
+  <i>Let's connect and chat!</i>
 
-<img width="100%" src="/assets/dino.gif" />
+  <p align="center">
+    <a href="https://instagram.com/kevinyobeth" alt="Instagram"><img height="30" src="https://instagram-brand.com/wp-content/uploads/2016/11/Instagram_AppIcon_Aug2017.png?w=300"></a>
+    <a href="https://www.linkedin.com/in/kevin-yobeth/" alt="Linkedin"><img height="30" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg"></a>
+    <a href="mailto:leokeviny@gmail.com" alt="Email"><img height="30" src="https://www.flaticon.com/svg/static/icons/svg/281/281769.svg"></a>
+    <a href="https://kevinyobeth.com" alt="My site"><img height="30" src="https://www.flaticon.com/svg/static/icons/svg/841/841568.svg"></a>
+  </p>
+</p>
+
+<img width="100%" src="/assets/footer.png" />
 
 <!--
 **KevinYobeth/KevinYobeth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
