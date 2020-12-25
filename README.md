@@ -24,6 +24,8 @@
 <a href="https://www.github.com/kevinyobeth"><img height="30" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"></a>
 <a href="https://www.github.com/kevinyobeth"><img height="30" src="https://assets.website-files.com/5c7036349b5477bf13f828cf/5c7036349b54772a93f82a6d_termius-logo.svg"></a>
 
+## Support Me
+<a href="https://www.buymeacoffee.com/kevinyobeth"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a pizza&emoji=🍕&slug=kevinyobeth&button_colour=40DCA5&font_colour=ffffff&font_family=Poppins&outline_colour=000000&coffee_colour=FFDD00"></a>
 <!-- <img width="100%" src="/assets/dino.gif" /> -->
 
 <hr>
