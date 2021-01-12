@@ -1,32 +1,43 @@
 <img width="100%" src="/assets/header.png" />
 
 ### Hi there, I'm Kevin Yobeth 👋
-- 🔭 I’m currently working on somethingg :D.
-- 🌱 I’m actively learning PHP Laravel and VueJS through project.
-- 👯 I’m looking to collaborate on Laravel or Flutter project to increase my knowledge furthermore.
+- 🔭 I’m currently working on my own productivity tools!
+- 🌱 I’m actively learning PHP Laravel and VueJS.
+- 👯 I’m looking to collaborate on projects increase my knowledge and meet new people!
 - 📫 Reach me by emailing leokeviny@gmail.com.
+- ⚡ My tech stack: Frontend VueJS - Backend Laravel - Mobile Flutter
+- 😄 Visit my website [here](https://kevinyobeth.com) or https://kevinyobeth.com
 
 <img alt="KevinYobeth's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kevinyobeth&show_icons=true&hide_border=true" />
 
 ## Languages I Use 
-<a href="https://www.github.com/kevinyobeth"><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></a>
-<a href="https://www.github.com/kevinyobeth"><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></a>
-<a href="https://www.github.com/kevinyobeth"><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></a>
 <a href="https://www.github.com/kevinyobeth"><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></a>
-<a href="https://www.github.com/kevinyobeth"><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></a>
+<a href="https://www.github.com/kevinyobeth"><img height="30"
+src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></a>
 <a href="https://www.github.com/kevinyobeth"><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></a>
-<a href="https://www.github.com/kevinyobeth"><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></a>
+<a href="https://www.github.com/kevinyobeth"><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></a>
+<a href="https://www.github.com/kevinyobeth"><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></a>
 <a href="https://www.github.com/kevinyobeth"><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></a>
 <a href="https://www.github.com/kevinyobeth"><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></a>
+
+## Frameworks I Use
+<a href="https://www.github.com/kevinyobeth"><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></a>
+<a href="https://www.github.com/kevinyobeth"><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></a>
+<a href="https://www.github.com/kevinyobeth"><img height="30" 
+src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></a>
+<a href="https://www.github.com/kevinyobeth"><img height="30" 
+src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png"></a>
+<a href="https://www.github.com/kevinyobeth"><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></a>
+<a href="https://www.github.com/kevinyobeth"><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png"></a>
 
 ## Tools I Use
 <a href="https://www.github.com/kevinyobeth"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg"></a>
 <a href="https://www.github.com/kevinyobeth"><img height="30" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"></a>
 <a href="https://www.github.com/kevinyobeth"><img height="30" src="https://assets.website-files.com/5c7036349b5477bf13f828cf/5c7036349b54772a93f82a6d_termius-logo.svg"></a>
+<a href="https://www.github.com/kevinyobeth"><img height="30" src="https://brand.heroku.com/static/media/heroku-logotype-vertical.f7e1193f.svg"></a>
 
 ## Support Me
 <a href="https://www.buymeacoffee.com/kevinyobeth"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a pizza&emoji=🍕&slug=kevinyobeth&button_colour=40DCA5&font_colour=ffffff&font_family=Poppins&outline_colour=000000&coffee_colour=FFDD00"></a>
-<!-- <img width="100%" src="/assets/dino.gif" /> -->
 
 <hr>
 <p align="center">
