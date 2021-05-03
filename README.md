@@ -1,8 +1,8 @@
 <img width="100%" src="/assets/header.png" />
 
 ### Hi there, I'm Kevin Yobeth 👋
-- 🔭 I’m currently working on RAVL, a productivity tools!
-- 🌱 I’m actively learning PHP Laravel and VueJS.
+- 🔭 I’m currently working on RAVL and Synch!
+- 🌱 I’m learning Flutter for mobile apps.
 - 👯 I’m looking to collaborate on projects increase my knowledge and meet new people!
 - 📫 Reach me by emailing leokeviny@gmail.com.
 - ⚡ My tech stack: Frontend VueJS - Backend Laravel - Mobile Flutter
