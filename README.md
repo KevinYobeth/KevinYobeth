@@ -7,6 +7,7 @@
 - 📫 Reach me by emailing leokeviny@gmail.com.
 - ⚡ My tech stack: Frontend VueJS - Backend Laravel - Mobile Flutter
 - 😄 Visit my website [here](https://kevinyobeth.com) or https://kevinyobeth.com
+- 👷‍♂️ For work related, you can contact me by email or https://kevinyobeth.com/v2/hire
 
 <img alt="KevinYobeth's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kevinyobeth&show_icons=true&hide_border=true" />
 
