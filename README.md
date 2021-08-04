@@ -35,7 +35,6 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 <a href="https://www.github.com/kevinyobeth"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg"></a>
 <a href="https://www.github.com/kevinyobeth"><img height="30" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"></a>
 <a href="https://www.github.com/kevinyobeth"><img height="30" src="https://image4.owler.com/logo/termius_owler_20190621_022052_small.png"></a>
-<a href="https://www.github.com/kevinyobeth"><img height="30" src="https://upload.wikimedia.org/wikipedia/en/a/a9/Heroku_logo.png"></a>
 
 ## Support Me
 <a href="https://www.buymeacoffee.com/kevinyobeth"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a pizza&emoji=🍕&slug=kevinyobeth&button_colour=40DCA5&font_colour=ffffff&font_family=Poppins&outline_colour=000000&coffee_colour=FFDD00"></a>
