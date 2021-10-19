@@ -1,5 +1,5 @@
 ### Hello there, I'm [Kevin Yobeth](https://kevinyobeth.com/v2) 👋
-- 🔭 I’m currently working on my own work ecosystem.
+- 🔭 I’m currently working on Synch - Client / Project Management System
 - 📫 Reach me by emailing leokeviny@gmail.com.
 - ⚡ My tech stack: Frontend VueJS - Backend Laravel - Mobile Flutter
 - 😄 Visit my website [here](https://kevinyobeth.com) or https://kevinyobeth.com
