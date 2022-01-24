@@ -1,9 +1,9 @@
-### Hello there, I'm [Kevin Yobeth](https://kevinyobeth.com/v2) 👋
+### Hello there, I'm [Kevin Yobeth](https://kevinyobeth.com) 👋
 - 🔭 I’m currently working on Synch - Client / Project Management System
 - 📫 Reach me by emailing leokeviny@gmail.com.
 - ⚡ My tech stack: Frontend VueJS - Backend Laravel - Mobile Flutter
 - 😄 Visit my website [here](https://kevinyobeth.com) or https://kevinyobeth.com
-- 👷‍♂️ For work related, you can contact me by email or https://kevinyobeth.com/v2/hire
+- 👷‍♂️ For work related, you can contact me by email or https://kevinyobeth.com/work-with-me
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="top" src="https://github-readme-stats.vercel.app/api?username=kevinyobeth&hide=contribs&count_private=true&theme=dracula&show_icons=true" alt="Kevin Yobeth's GitHub Stats" />
