@@ -1,7 +1,7 @@
 ### Hello there, I'm [Kevin Yobeth](https://kevinyobeth.com) 👋
 - 🔭 I’m currently working on Synch - Client / Project Management System
 - 📫 Reach me by emailing leokeviny@gmail.com.
-- ⚡ My tech stack: Frontend VueJS - Backend Laravel - Mobile Flutter
+- ⚡ My tech stack: Frontend NextJs - Backend Laravel - Mobile Flutter
 - 😄 Visit my website [here](https://kevinyobeth.com) or https://kevinyobeth.com
 - 👷‍♂️ For work related, you can contact me by email or https://kevinyobeth.com/work-with-me
 
