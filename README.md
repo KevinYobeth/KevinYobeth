@@ -1,5 +1,4 @@
 ### Hello there, I'm [Kevin Yobeth](https://kevinyobeth.com) 👋
-- 🔭 I’m currently working on Blogging Website
 - 📫 Reach me by emailing me@kevinyobeth.com
 - ⚡ My tech stack: Frontend NextJs - Backend Laravel - Mobile Flutter
 - 😄 Visit my website [here](https://kevinyobeth.com) or https://kevinyobeth.com
